@@ -1,5 +1,4 @@
- Simple Weather App
-
+ Simple Weather Application
 -> This is a **basic Weather Application** built using **HTML, CSS, and JavaScript**. It fetches real-time weather data from a public API and displays the current weather for a given city.
 -> This is my **first project**, developed with the help of YouTube tutorials as a learning experience.
  
