@@ -1,31 +1,31 @@
- Simple Weather Application
+# Simple Weather Application
 -> This is a **basic Weather Application** built using **HTML, CSS, and JavaScript**. It fetches real-time weather data from a public API and displays the current weather for a given city.
 -> This is my **first project**, developed with the help of YouTube tutorials as a learning experience.
  
- Features
+# Features
 * Search for weather by city name
 * Displays temperature, humidity, weather description, and icon
 * Clean and responsive UI
 
-Technologies Used
+# Technologies Used
 * HTML
 * CSS
 * JavaScript
 * [OpenWeatherMap API](https://openweathermap.org/api)
 
-What I Learned
+# What I Learned
 * How to structure a basic web project
 * Fetching data from external APIs using JavaScript
 * Updating the DOM dynamically
 * Styling with CSS
 
-Future Improvements
+# Future Improvements
 * Add loading states and error handling
 * Convert units (Celsius ↔️ Fahrenheit)
 * Add search history
 * Improve responsive design for mobile
 
-### 📦 How to Run
+# How to Run
 
 1. Clone the repository
 
